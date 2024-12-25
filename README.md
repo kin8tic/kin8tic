@@ -1,1 +1,1 @@
-### Graphics programming, primarily using Odin, C, and C++
+### Graphics programming, primarily using C and Odin
